@@ -9,7 +9,7 @@ In general, Cloud9 got **42.1%** of first [dragons](https://imgur.com/3ANcfVq) a
 
 In terms of individual performance, Nisqy was the [kill leader](https://imgur.com/Fl33wIn), having played as a carry in every regular season game and not sharing time with another player. Unsurprisingly, Zeyzal was ahead of the [vision game](https://imgur.com/QcGgRuh), having twice as many wards + ward kills as anyone else on the team.
 
-Now the most important stat: who is the biggest KDA player on Cloud9? The answer is >!Deftly with a 6.0 KDA! He was followed closely by Zeyzal, Nisqy, and Sneaky.!<
+Now the most important stat: who is the biggest KDA player on Cloud9? The answer is Deftly with a 6.0 KDA! He was followed closely by Zeyzal, Nisqy, and Sneaky.
 
 [Link to post](https://www.reddit.com/r/Cloud9/comments/cmvrpr/some_stats_from_cloud9s_2019_summer_split/)
 
